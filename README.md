@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C, C++, Python, HTML, CSS, JAVASCRIPT, REACT, Data Structure**
 
-- 📫 How to reach me **shakhawatbijoy1@gmail.com**
+- 📫 How to reach me **shafinahmed546@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny....**
 
