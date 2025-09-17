@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciiifeer&label=Profile%20views&color=0e75b6&style=flat" alt="luciiifeer" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bijoy_shakhawat" target="blank"><img src="https://img.shields.io/twitter/follow/bijoy_shakhawat?logo=twitter&style=for-the-badge" alt="bijoy_shakhawat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bijoy_shakhawat" target="blank"><img src="https://img.shields.io/twitter/follow/bijoy_shakhawat?logo=twitter&style=for-the-badge" alt="shafin_ahmed" /></a> </p>
 
 - 🔭 I’m currently working on **Buy High**
 
@@ -18,8 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bijoy_shakhawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bijoy_shakhawat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shakhawat-bijoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakhawat-bijoy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shafin----ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafin_ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/bijoy1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bijoy1x" height="30" width="40" /></a>
 <a href="https://instagram.com/bijoy_shakhawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijoy_shakhawat" height="30" width="40" /></a>
 <a href="https://discord.gg/MxzNusTG6S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MxzNusTG6S" height="30" width="40" /></a>
